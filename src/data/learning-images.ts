@@ -8,7 +8,7 @@ export const learningImages: Record<string, Record<string, string>> = {
   huruf: {
     // Contoh: 'A': '/assets/images/huruf/A.png',
     A: "/images/huruf/A.png", // Kosongkan jika belum ada gambar
-    B: "",
+    B: "/images/huruf/B.png",
     C: "",
     D: "",
     E: "",
